@@ -1,3 +1,15 @@
-.App{
-    background-color: aquamarine;
+.App {
+  background-color: aquamarine;
+}
+.input-circle {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  width: 30%;
+  padding-top: 30px;
+}
+input {
+  max-width: 100px;
 }
